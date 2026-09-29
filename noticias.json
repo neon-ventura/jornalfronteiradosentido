@@ -1,6 +1,33 @@
 {
  "itens": [
   {
+   "id": "mumtj9r4qobj",
+   "titulo": "Teste automático do painel, pode apagar",
+   "slug": "teste-automatico-do-painel-pode-apagar",
+   "chapeu": "",
+   "linhafina": "Rascunho criado por um teste para conferir se o painel salva.",
+   "corpo": "Primeiro parágrafo do teste.\n\n## Um intertítulo\n\nSegundo parágrafo, com **negrito** e um [link](https://exemplo.com).\n\n> Uma citação de teste.\n-- Fulano, cargo",
+   "editoria": "regiao",
+   "autor": "Daniel Gonçalves",
+   "local": "Itapecerica da Serra, SP",
+   "data": "2026-09-29",
+   "foto": "",
+   "fotoAlt": "",
+   "fotoCredito": "",
+   "destaque": 0,
+   "ordem": 0,
+   "publicado": false,
+   "urgente": false,
+   "opiniao": false,
+   "tags": [],
+   "fontes": [],
+   "demo": false,
+   "notaInterna": "",
+   "criadoEm": "2026-09-29T15:15:44.032Z",
+   "atualizadoEm": "2026-09-29T15:15:44.032Z",
+   "publicadoEm": ""
+  },
+  {
    "id": "mumt4en7c1hh",
    "titulo": "Da escola do sucesso ao balcão da fé: a engrenagem invisível que move a frustração humana",
    "slug": "da-escola-do-sucesso-ao-balcao-da-fe-a-engrenagem-invisivel-que-move-a-frustraca",
