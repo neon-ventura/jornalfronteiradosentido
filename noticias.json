@@ -16,7 +16,7 @@
    "fotoCredito": "",
    "destaque": 1,
    "ordem": 0,
-   "publicado": false,
+   "publicado": true,
    "urgente": false,
    "opiniao": true,
    "tags": [],
@@ -29,8 +29,8 @@
    "demo": false,
    "notaInterna": "",
    "criadoEm": "2026-10-24T23:09:20.221Z",
-   "atualizadoEm": "2026-10-24T23:09:20.221Z",
-   "publicadoEm": ""
+   "atualizadoEm": "2026-10-24T23:14:36.208Z",
+   "publicadoEm": "2026-10-24T23:14:36.208Z"
   },
   {
    "id": "mumu1wdxil2l",
