@@ -143,7 +143,7 @@
    "fotoCredito": "Felipe Bugni/Arquivo Pessoal",
    "destaque": 0,
    "ordem": 0,
-   "publicado": true,
+   "publicado": false,
    "urgente": false,
    "opiniao": false,
    "tags": [
@@ -161,8 +161,8 @@
    "demo": true,
    "notaInterna": "",
    "criadoEm": "2026-09-29T15:30:10.135Z",
-   "atualizadoEm": "2026-09-29T15:35:04.167Z",
-   "publicadoEm": "2026-09-28T12:00:00.000Z"
+   "atualizadoEm": "2026-11-07T19:37:52.508Z",
+   "publicadoEm": ""
   },
   {
    "id": "mumu1rp2oica",
