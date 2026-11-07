@@ -106,7 +106,7 @@
    "fotoCredito": "Fernando Frazão/Agência Brasil",
    "destaque": 0,
    "ordem": 0,
-   "publicado": true,
+   "publicado": false,
    "urgente": false,
    "opiniao": false,
    "tags": [
@@ -124,8 +124,8 @@
    "demo": true,
    "notaInterna": "",
    "criadoEm": "2026-09-29T15:30:13.173Z",
-   "atualizadoEm": "2026-09-29T15:35:06.828Z",
-   "publicadoEm": "2026-09-29T15:30:13.173Z"
+   "atualizadoEm": "2026-11-07T19:36:44.399Z",
+   "publicadoEm": ""
   },
   {
    "id": "mumu1u1jrgtk",
