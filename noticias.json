@@ -180,7 +180,7 @@
    "fotoCredito": "Marcelo Camargo/Agência Brasil",
    "destaque": 0,
    "ordem": 0,
-   "publicado": true,
+   "publicado": false,
    "urgente": false,
    "opiniao": false,
    "tags": [
@@ -198,8 +198,8 @@
    "demo": true,
    "notaInterna": "",
    "criadoEm": "2026-09-29T15:30:07.094Z",
-   "atualizadoEm": "2026-09-29T15:35:01.143Z",
-   "publicadoEm": "2026-09-29T15:30:07.094Z"
+   "atualizadoEm": "2026-11-07T19:36:55.947Z",
+   "publicadoEm": ""
   },
   {
    "id": "mumu1p3cfsg2",
