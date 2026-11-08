@@ -14,7 +14,7 @@
    "foto": "midia/mw7ui3fkxjmf.webp",
    "fotoAlt": "",
    "fotoCredito": "",
-   "destaque": 0,
+   "destaque": 1,
    "ordem": 0,
    "publicado": true,
    "urgente": false,
@@ -29,7 +29,7 @@
    "demo": false,
    "notaInterna": "",
    "criadoEm": "2026-11-08T13:05:04.110Z",
-   "atualizadoEm": "2026-11-08T14:30:39.461Z",
+   "atualizadoEm": "2026-11-08T14:35:39.369Z",
    "publicadoEm": "2026-11-08T13:51:41.518Z"
   },
   {
@@ -46,7 +46,7 @@
    "foto": "midia/mw6mq5d6tv0p.webp",
    "fotoAlt": "",
    "fotoCredito": "",
-   "destaque": 1,
+   "destaque": 2,
    "ordem": 0,
    "publicado": true,
    "urgente": false,
