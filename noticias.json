@@ -16,7 +16,7 @@
    "fotoCredito": "",
    "destaque": 0,
    "ordem": 0,
-   "publicado": false,
+   "publicado": true,
    "urgente": false,
    "opiniao": false,
    "tags": [],
@@ -26,8 +26,8 @@
    "demo": false,
    "notaInterna": "",
    "criadoEm": "2026-11-08T23:33:13.462Z",
-   "atualizadoEm": "2026-11-08T23:33:13.462Z",
-   "publicadoEm": ""
+   "atualizadoEm": "2026-11-09T00:18:51.889Z",
+   "publicadoEm": "2026-11-08T12:00:00.000Z"
   },
   {
    "id": "mw81q28ih97y",
