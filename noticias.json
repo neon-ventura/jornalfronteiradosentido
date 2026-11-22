@@ -14,9 +14,9 @@
    "foto": "midia/mwsfin4iwwpp.webp",
    "fotoAlt": "ENSAIO & ANÁLISE FILOSÓFICA Do Corpo ao Tempo: A Alforria Imperial e o Fim da Escala 6x1",
    "fotoCredito": "",
-   "destaque": 0,
+   "destaque": 1,
    "ordem": 0,
-   "publicado": false,
+   "publicado": true,
    "urgente": false,
    "opiniao": false,
    "tags": [],
@@ -26,8 +26,8 @@
    "demo": false,
    "notaInterna": "",
    "criadoEm": "2026-11-22T23:01:05.220Z",
-   "atualizadoEm": "2026-11-22T23:01:05.220Z",
-   "publicadoEm": ""
+   "atualizadoEm": "2026-11-22T23:15:38.153Z",
+   "publicadoEm": "2026-11-22T23:15:38.153Z"
   },
   {
    "id": "mw8gx4dy8s0l",
@@ -43,7 +43,7 @@
    "foto": "midia/mw8iv7rllo3f.webp",
    "fotoAlt": "",
    "fotoCredito": "",
-   "destaque": 1,
+   "destaque": 2,
    "ordem": 0,
    "publicado": true,
    "urgente": false,
